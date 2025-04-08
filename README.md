@@ -73,7 +73,7 @@ Once the application is running, you can:
 
 ## Live Preview
 
-- [Live Preview](https://movie-web-app.vercel.app)
+- [Live Preview](https://movie-web-app-mocha-psi.vercel.app/)
 
 ## License
 
